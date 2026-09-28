@@ -1,6 +1,6 @@
 Package: mdbx
 Title: Bindings to the 'libmdbx' Embedded Key-Value Store
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Pedro", "Baltazar", , "pedrobtz@gmail.com", role = c("aut", "cre", "cph")),
     person("Leonid", "Yuriev", role = c("ctb", "cph"),
@@ -28,7 +28,7 @@ Config/testthat/edition: 3
 Config/Needs/check: decor, tibble, vctrs
 LinkingTo: cpp11
 NeedsCompilation: yes
-Packaged: 2026-09-16 14:23:29 UTC; pbtz
+Packaged: 2026-09-28 12:29:30 UTC; pbtz
 Author: Pedro Baltazar [aut, cre, cph],
   Leonid Yuriev [ctb, cph] (Vendored 'libmdbx' library in
     src/vendor/libmdbx; see inst/COPYRIGHTS.),
@@ -40,4 +40,4 @@ Author: Pedro Baltazar [aut, cre, cph],
     derives; see inst/COPYRIGHTS.)
 Maintainer: Pedro Baltazar <pedrobtz@gmail.com>
 Repository: CRAN
-Date/Publication: 2026-09-27 16:40:17 UTC
+Date/Publication: 2026-09-28 13:20:02 UTC

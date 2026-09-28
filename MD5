@@ -1,7 +1,7 @@
-4ba189a01917313828b9942cb66c7990 *DESCRIPTION
+2e03a66623b8f12c2dccc857eb3f75b0 *DESCRIPTION
 af19c8d1e2b85bd429a878ecf7693da2 *LICENSE
 db931828dbe5b64a221bf0aae838b51a *NAMESPACE
-35eafdf100d7547aac7177590c75894b *NEWS.md
+c91cb194fdb7fe0e876e04c264f10d6b *NEWS.md
 365d2fc5f88473dd710fcc457c37fc06 *R/concurrency.R
 1a30c5a254db313a35458da5ff48c856 *R/conditions.R
 ec1500bac7c46a1b31a211420dfb83b2 *R/cpp11.R
@@ -16,7 +16,7 @@ a66ba9b8f8d5f4f178284972da251170 *R/dbi.R
 9dd4832fa44737df5573fcd8b852c37d *R/version.R
 af676020e294311ec7705aa4c88bc634 *R/zzz.R
 9608a9650bcdc13e0c17728fea728225 *README.md
-d2a1a2678ec1bae6274869dde506378f *inst/COPYRIGHTS
+5d05173d62681a034e4b4dd3cae7fec7 *inst/COPYRIGHTS
 250fc562fe1c8edbb8abfebb8df546db *man/mdbx-concurrency.Rd
 b2c8cfc64b1e2006d50aadda39f4e80c *man/mdbx-errors.Rd
 8f38b50f9db85a2b6848f5e837c2dbe1 *man/mdbx-package.Rd
@@ -47,8 +47,8 @@ d3bc04b42c45e5a1e0126b22309b01cb *man/mdbx_txn_commit.Rd
 2c9dabc3aaa3fb6d44cf3a153fac965f *man/mdbx_txn_state.Rd
 aec6ef6f80450f002a51412e356ac69f *man/mdbx_version.Rd
 e539f3cbb806f69b53f1e3f137c992e5 *man/mdbx_with_write.Rd
-54cd97b2e1cbe955da66ffe541b98353 *src/Makevars
-adf682acbd7c3d82a5b156c800b914c8 *src/Makevars.win
+cd6e0daeaa7e0281fe603ad02ced3751 *src/Makevars
+2c9dd5ee63dc3a633fcc64a9ae4e6def *src/Makevars.win
 a055db27e6abd651ecc2d15cab4c0123 *src/cpp11.cpp
 2f77d7a9b91ef45e924878520666b49b *src/r_flags.cpp
 9bd4657b76bc45e8c82eb6d36699f614 *src/r_mdbx.cpp
@@ -58,8 +58,8 @@ a290464efecca2b14e6d48447e7c57c0 *src/r_mdbx_hooks.h
 3aedf5541c3efaf7bdf7eb2e9924cf11 *src/vendor/libmdbx/COPYRIGHT
 2ee41112a44fe7014dce33e26468ba93 *src/vendor/libmdbx/LICENSE
 eb8fee27740674faadcb9336f54a0d24 *src/vendor/libmdbx/NOTICE
-fe510fb0c3b5656e77b09a6a0109dbd2 *src/vendor/libmdbx/mdbx-internals.h
-6e6a4d725fccc8d55223dbbd1bc78760 *src/vendor/libmdbx/mdbx.c
+7470fb6b246342cc77439cb1c7893754 *src/vendor/libmdbx/mdbx-internals.h
+f4b6e2ac3ff284c08697b86a44deca0f *src/vendor/libmdbx/mdbx.c
 24c57d37540e5a4dced543ffc5ca0e21 *src/vendor/libmdbx/mdbx.h
 5ca0bb1064972dd9b2f210c5f0259172 *tests/testthat.R
 aebb1887166dc50dc43f20943e5d86dd *tests/testthat/helper-env.R
